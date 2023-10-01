@@ -1,8 +1,9 @@
 # site settings
 title: Chiou Lab
-subtitle: Discover the patterns of life
+subtitle: Patterning Principles in Microbiology
 email: jchiou@gate.sinica.edu.tw
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+welcoming: Discover the patterns of life.
+description: Now recruiting at all positions!
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:  Jian-geng Chiou
@@ -22,14 +23,11 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: https://github.com/JiangengChiouLab
+  Youtube: 
+  Twitter: https://twitter.com/jiangengchiou
+  Discord: https://
+ 
 
 # build settings
 markdown: kramdown
