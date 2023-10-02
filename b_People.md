@@ -2,10 +2,57 @@
 layout: page
 title: People
 description: the great minds behind the science
-image: assets/images/pic11.jpg
+image: assets/images/pic10.jpg
 nav-menu: true
 show_tile: true
 ---
 
-test test test
-
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/b_profile_Jian-geng.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jian-geng Chiou</h3>
+				</header>
+				<p><i>A self-proclaimed biologist when I need an excuse for sucking at physics. A self-proclaimed physicist when I honestly can’t remember that many genes.</i></p>
+				<p>
+				I went to Duke University origianlly to pursue my PhD and my interest in evolutionary genetics. Less than a year later, I ditched my original interest and studies how a budding yeast bud. That question accidentally became a physics problem of how certain proteins autonomously pattern in the yeast cell. Before I realized, I started to attend more physics meetings than biology ones. After graduation, I went to do a postdoc in UCSD. Having the advantage of (moderately) knowing both biology and physics, I published enough to get a faculty position. If there is one thing that got me to where I am, it is the uncertainty of my career path. Now I am starting my own lab in the Institute of Plant and Molecular Biology in Academia Sinica, Taiwan, planing to answer a fundamental evolution question using biophysics approaches.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic01.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Kevin Chen</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic06.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Yu-Hsin Chang</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>

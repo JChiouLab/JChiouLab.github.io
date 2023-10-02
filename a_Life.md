@@ -1,10 +1,10 @@
 ---
 layout: allposts
-title: News
+title: Life
+description: news, life updates, and fun stuff!
 landing-title: 'All posts'
 nav-menu: true
-description: null
-image: null
+image: assets/images/pic10.jpg
 author: null
 show_tile: true
 ---
