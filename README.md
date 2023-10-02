@@ -8,15 +8,15 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 
 Jekyll uses markdown language (.md files) to control the contents of the webpage. 
 
-To edit the pages, simple edit the .md files in the root directory that correspond to the respective pages.
+ * To edit the pages, simple edit the .md files in the root directory that correspond to the respective pages.
 
-To add images, upload the images to assets>images, and then call them in the .md files.
+ * To add images, upload the images to assets>images, and then call them in the .md files.
 
-To control how a page looks on the homepage and landing page, edit the "froont matter" (the code sandwitched between the upper and the lower "---"). 
+ * To control how a page looks on the homepage and landing page, edit the "froont matter" (the code sandwitched between the upper and the lower "---"). 
 
-To add a post in the News' section, add new .md files in the "\_posts" directory.  Notice that the file name has to be "YYYY_M_DD-title.md".
+ * To add a post in the News' section, add new .md files in the "\_posts" directory.  Notice that the file name has to be "YYYY_M_DD-title.md".
 
-After you finished editing the pages, remember to deploy the website using 'Actions'
+ * Remember to deploy the website using 'Actions' in github after each edit.
 
 You can read up how the Jekyll system works in [jekyllrb.com](https://jekyllrb.com/),
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/)
