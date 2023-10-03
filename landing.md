@@ -2,7 +2,7 @@
 title: Developmental Patterning in Microbiology
 layout: landing
 description: 'Development is not limited to embryogenesis<br />Neither are patterns'
-image: assets/images/pic07.jpg
+image: assets/images/banner_bacillus_slow.gif
 nav-menu: false
 show_tile: false
 ---

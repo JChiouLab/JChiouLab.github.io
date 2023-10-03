@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title:
 description:
-image: null
+image: assets/images/banner_bacillus_slow.gif
 author: null
 show_tile: false
 ---
