@@ -17,9 +17,8 @@ show_tile: true
 				<header class="major">
 					<h3>Jian-geng Chiou</h3>
 				</header>
-				<p><i>A self-proclaimed biologist when I need an excuse for sucking at physics. A self-proclaimed physicist when I honestly can’t remember that many genes.</i></p>
-				<p>
-				I went to Duke University origianlly to pursue my PhD and my interest in evolutionary genetics. Less than a year later, I ditched my original interest and studies how a budding yeast bud. That question accidentally became a physics problem of how certain proteins autonomously pattern in the yeast cell. Before I realized, I started to attend more physics meetings than biology ones. After graduation, I went to do a postdoc in UCSD. Having the advantage of (moderately) knowing both biology and physics, I published enough to get a faculty position. If there is one thing that got me to where I am, it is the uncertainty of my career path. Now I am starting my own lab in the Institute of Plant and Molecular Biology in Academia Sinica, Taiwan, planing to answer a fundamental evolution question using biophysics approaches.</p>
+				<p><i>A self-proclaimed biologist when I need an excuse for sucking at physics. A self-proclaimed physicist when I honestly can’t remember that many genes.</i><br>
+				I went to Duke University origianlly to pursue my PhD and my interest in evolution and development (evo-devo). Less than a year later, I ditched my original interest and studies how a budding yeast bud. That question accidentally became a physics problem of how certain proteins autonomously pattern in the yeast cell. Before I realized, I started to attend more physics meetings than biology ones. After graduation, I went to do a postdoc in UCSD. Having the advantage of (moderately) knowing both biology and physics, I published barely enough to start my own lab in the Institute of Plant and Molecular Biology (IPMB) in Academia Sinica, Taiwan. I now plan to answer fundamentally evo-devo question using biophysics approaches.</p>
 				<ul class="actions">
                     <li><a href="mailto:jchiou@gate.sinica.edu.tw" class="button icon fa-paper-plane">email</a></li>
                 </ul>
