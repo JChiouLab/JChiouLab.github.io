@@ -2,7 +2,7 @@
 layout: page
 title: People
 description: the great minds behind the science
-image: assets/images/pic13.jpg
+image: assets/images/pic12.jpg
 nav-menu: true
 show_tile: true
 ---
