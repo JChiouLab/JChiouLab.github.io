@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: actually read our stories
-image: assets/images/pic11.jpg
+image: assets/images/Cell2022.png
 nav-menu: true
 show_tile: true
 ---
