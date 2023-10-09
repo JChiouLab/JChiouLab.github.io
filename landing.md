@@ -23,7 +23,7 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="c_Research.html#CellPolarity" class="image">
 			<img src="{% link assets/images/ResearchFigure2_Turing.pdf %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -33,13 +33,13 @@ show_tile: false
 				</header>
 				<p>How does the same polarity machinery result in diverse growth modes? The answer lies within the intra-cellular pattern formation process of polarity proteins. We explore how the recently developed Turing theoretical framework could explain cell polarity modes in not only the budding yeast but also the diversity of growth modes among Ascomycete fungi.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="c_Research.html#CellPolarity" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="c_Research.html#BiofilmDevelopment" class="image">
 			<img src="{% link assets/images/ResearchFigure3_Rings.pdf %}" alt="" data-position=" center" />
 		</a>
 		<div class="content">
@@ -49,7 +49,7 @@ show_tile: false
 				</header>
 				<p>Forty years after the clock-and-wavefront model was proposed, researchers studying vertebrate somitogenesis has learned that the coupling mechanism of cell-autonomous oscillators is critical to generate a collective pattern. Biofilms are multicellular communities of bacteria that develop segments using analogous mechanisms. How is collective patterning achieved in developing bacterial bioflims?</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="c_Research.html#BiofilmDevelopment" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

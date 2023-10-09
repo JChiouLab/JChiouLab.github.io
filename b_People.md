@@ -15,7 +15,7 @@ show_tile: true
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="mailto:jchiou@gate.sinica.edu.tw" class="image">
 			<img src="{% link assets/images/b_profile_Jian-geng.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
