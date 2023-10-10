@@ -44,12 +44,12 @@ show_tile: true
 		<h3>Biofilm Development</h3>
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<span class="image main"><img src="assets/images/ResearchFigure3_wb.pdf" style="width:600px;height:auto;"></span>
-			</div>
-			<div class="6u 12u$(small)">
 				<p>The general textbook impression of bacteria is that they are unicellular organisms. However, most bacterial species can in fact develop into multicellular communities called biofilms. Although each bacterium in a biofilm is an individual organism, biofilm as an entity shares many surprising features with true multi-cellular organisms. Studies have shown that Bacillus subtilis cells within a biofilm can communicate with each other through electrochemical signals similar to action potential within neurons. The latest research has shown that <i>B. subtilis</i> biofilms can develop concentric segments driven by molecular clocks in individual bacterial cells, similar to vertebrate somitogenesis, and use this pattern to control cell differentiation(<a href="d_Publications.html#2022Cell">Chou, Lee, Chiou et al., 2022, <i>Cell</i></a>). </p>
 				<p>Cell-autonomous oscillations within individual cells are the driving forces of segmentation. However, when each cell has an independent clock, the expectation of the macroscopic pattern is a field of blurred noise. To generate concentric rings with sharp boundaries, a mechanism that synchronizes and couples the clocks has to exist, just like how fireflies on the same tree turn bright simultaneously. <b>How do molecular clocks talk to each other?</b> Would it be electrochemical signals? We are planning to solve the key problem of synchronization under microscopic live imaging.
 				</p>
+			</div>
+			<div class="6u 12u$(small)">
+				<span class="image main"><img src="assets/images/ResearchFigure3_wb.pdf" style="width:600px;height:auto;"></span>
 			</div>
 		</div>	
 	</div>
