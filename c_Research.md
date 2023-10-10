@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description: read our stories
-image: assets/images/ResearchFigure2_Turing.pdf
+image: assets/images/Research.png
 nav-menu: true
 show_tile: true
 ---
