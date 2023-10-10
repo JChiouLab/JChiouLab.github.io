@@ -3,8 +3,8 @@ layout: page
 title: Research
 description: read our stories
 image: assets/images/Research.png
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 ---
 
 <header>
