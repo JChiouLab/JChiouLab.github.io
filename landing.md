@@ -16,7 +16,7 @@ show_tile: false
 		<header class="major">
 			<h2>Patterning is an interdisciplinary field</h2>
 		</header>
-		<p>Pattern formation is a fascinating process critical in the development of multicellular organisms. Although the underlying molecular pathways for pattern formation may be completely different between distinct phylogenetic clades, they often follow similar mathematical principles. Since mathematical principles often transcend taxonomic boundaries, why can't patterning also occur in 'unicellular' microbes? We use interdisciplinary approaches including <b>live cell microscopy</b> and <b>mathematical modeling</b> to studies the <b>principles of pattern formation</b> that play key roles in <b>microbial developmental processes</b>.</p>
+		<p>Pattern formation is a fascinating process critical in the development of multicellular organisms. Although the underlying molecular pathways for pattern formation may be completely different between distinct phylogenetic clades, they often follow similar mathematical principles. Since mathematical principles often transcend taxonomic boundaries, why can't patterning also occur in 'unicellular' microbes? We use interdisciplinary approaches, including <b>live cell microscopy</b> and <b>mathematical modeling</b> to studies the <b>principles of pattern formation</b> that play key roles in <b>microbial developmental processes</b>.</p>
 	</div>
 </section>
 
@@ -61,7 +61,7 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Life in lab</h3>
+					<h3>Life in Jian-geng Chiou lab</h3>
 				</header>
 				<p>Our lab is in the main campus of Academia Sinica, located in Taipei City, the capital of <b>Taiwan</b>. We enjoy the serenity created by the surrounding mountains as well as being 20-30 minutes away from the heart of Taipei City by public transportation. Apart from the thrill of science itself, we emphasize a good balance between work and life. Afterall, science on its own can be hard enough. Life should be made easier :D</p>
 				<ul class="actions">
@@ -76,7 +76,7 @@ show_tile: false
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>We are recruiting!</h2>
+			<h2>The Chiou lab is recruiting!</h2>
 		</header>
 		<p>We believe that disciplines are artificial constructs that are no longer meaningful. If something is useful on the trajectory of evolution, life will pick it up. Life doesn't know nor care whether that thing is a pathway taught in <i>Cell Biology</i> or a mathematical concept taught in <i>Linear Algebra</i>. We, who try to understand the path of life, must also break the boundaries of disciplines and learn the languages of the people who are trained differently and therefore think differently. </p>
 		<p>We are looking for teammates who think differently. Whether you were trained as a <b>Cell Biologist</b>, a <b>Developmental Biologist</b>, a <b>Microbiologist</b>, a <b>Physicist</b>, or a <b>Mathematical modeler</b>, join us. </p><p>As long as you are interested in microbial patterning, you'll learn fast.</p>

@@ -7,7 +7,8 @@ description: Now recruiting at all positions!
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:  Jian-geng Chiou
-street_address: R402, IPMB, Academia Sinica No. 128, Section 2, Academia Rd
+room_institute: R402, The Institute of Plant and Microbial Biology, Academia Sinica
+street_address: No. 128, Section 2, Academia Rd
 city: Nangang District
 state: Taipei City
 zip_code: 115
