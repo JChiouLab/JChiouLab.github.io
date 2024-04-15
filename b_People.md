@@ -2,7 +2,7 @@
 layout: page
 title: People
 description: the minds behind the science
-image: assets/images/pic11.jpg
+image: assets/images/Labwarming3.jpg
 nav-menu: true
 show_tile: true
 ---
@@ -27,6 +27,22 @@ show_tile: true
 				I went to Duke University to pursue my PhD and origianlly my interest in evolution and development (evo-devo). Less than a year later, I ditched my original interest and studies how a budding yeast bud. That question accidentally became a physics problem of how certain proteins autonomously pattern in the yeast cell. Before I realized, I was attending more physics meetings than biology ones. After graduation, I went to do a postdoc in UCSD. Having the advantage of (moderately) knowing both biology and physics, I published barely enough to start my own lab in the Institute of Plant and Molecular Biology (IPMB) in Academia Sinica, Taiwan. I now plan to answer fundamentally evo-devos question using biophysics approaches.</p>
 				<ul class="actions">
                     <li><a href="mailto:jchiou@gate.sinica.edu.tw" class="button icon fa-paper-plane">email</a></li>
+                </ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="2024/03/25/Welcome-to-the-lab-Ian.html" class="image">
+			<img src="{% link assets/images/b_profile_Ian.jpg %}" alt="" style="width:256px;height:367px;" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>許聖言 Ian Shenyen Hsu</h3>
+				</header>
+				<p><i><b>Postdoctoral Researcher</b><br> Meditating...</i><br>This spot is so cold...</p>
+                <ul class="actions">
+                    <li><a href="mailto:luciferous0808@gate.sinica.edu.tw" class="button icon fa-paper-plane">email</a></li>
                 </ul>
 			</div>
 		</div>
