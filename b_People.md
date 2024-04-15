@@ -33,7 +33,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="2024/03/25/Welcome-to-the-lab-Ian.html" class="image">
-			<img src="{% link assets/images/b_profile_Ian.jpeg %}" alt="" style="width:256px;height:367px;" data-position="top center" />
+			<img src="{% link assets/images/b_profile_Ian.jpeg %}" alt=""  data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
