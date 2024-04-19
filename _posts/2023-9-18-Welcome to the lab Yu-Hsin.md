@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to the lab Yu-Hsin!
 description:
-image: assets/images/pic11.jpg
+image: assets/images/b_profile_Yu-Hsin.jpg
 ---
 
 Yu-Hsin （張郁欣）filled up the lab manager position. Thank you and welcome in!

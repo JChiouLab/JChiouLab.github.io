@@ -42,7 +42,7 @@ show_tile: true
 				</header>
 				<p><i><b>Postdoctoral Researcher</b><br> Meditating...</i><br>This spot is so cold...</p>
                 <ul class="actions">
-                    <li><a href="mailto:luciferous0808@gate.sinica.edu.tw" class="button icon fa-paper-plane">email</a></li>
+                    <li><a href="mailto:hsushen@gate.sinica.edu.tw" class="button icon fa-paper-plane">email</a></li>
                 </ul>
 			</div>
 		</div>
