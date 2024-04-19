@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kevin welcome to the lab!
+title: Welcome to the lab Kevin!
 description:
 image: assets/images/b_profile_Kevin.png
 ---
