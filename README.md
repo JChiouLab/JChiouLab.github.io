@@ -4,6 +4,23 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 
 ![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
+# How to Run the Website in the Future
+
+Whenever you want to run the website locally for development:
+
+1. **Open a terminal in the project directory:**
+   ```bash
+   cd /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io
+   ```
+
+2. **Start the server:**
+   ```bash
+   ~/local-ruby/bin/bundle exec jekyll serve --host 127.0.0.1 --port 4000
+   ```
+
+3. **Access the website:**
+   Open [http://127.0.0.1:4000](http://127.0.0.1:4000) in your web browser. Any changes you make to markdown or layouts will automatically recompile and show up on the page.
+
 # How to Use
 
 Jekyll uses markdown language (.md files) to control the contents of the webpage. 
