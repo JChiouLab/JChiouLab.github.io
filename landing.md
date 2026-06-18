@@ -56,7 +56,7 @@ show_tile: false
 	</section>
 	<section>
 		<a href="a_Life.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/Life.jpeg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -74,16 +74,15 @@ show_tile: false
 
 <!-- Three -->
 <section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>The Chiou lab is recruiting!</h2>
-		</header>
-		<p>We believe that disciplines are artificial constructs that are no longer meaningful. If something is useful on the trajectory of evolution, life will pick it up. Life doesn't know nor care whether that thing is a pathway taught in <i>Cell Biology</i> or a mathematical concept taught in <i>Linear Algebra</i>. We, who try to understand the path of life, must also break the boundaries of disciplines and learn the languages of the people who are trained differently and therefore think differently. </p>
-		<p>We are looking for teammates who think differently. Whether you were trained as a <b>Cell Biologist</b>, a <b>Developmental Biologist</b>, a <b>Microbiologist</b>, a <b>Physicist</b>, or a <b>Mathematical modeler</b>, join us. </p><p>As long as you are interested in microbial patterning, you'll learn fast.</p>
-		<ul class="actions">
-			<li><a href="mailto:jchiou@gate.sinica.edu.tw" class="button icon fa-paper-plane">Send CV</a></li>
-		</ul>
-	</div>
+    <div class="inner">
+        <header class="major">
+            <h2>The Chiou lab is recruiting!</h2>
+        </header>
+        <p>{{ content }}</p>
+        <ul class="actions">
+            <li><a href="mailto:jchiou@gate.sinica.edu.tw" class="button icon fa-paper-plane">Send CV</a></li>
+        </ul>
+    </div>
 </section>
 
 </div>

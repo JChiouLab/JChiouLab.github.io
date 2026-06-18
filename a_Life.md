@@ -1,10 +1,10 @@
 ---
 layout: allposts
-title: Life
+title: Lab updates
 description: news, life updates, and fun stuff!
 landing-title: 'All posts'
 nav-menu: true
-image: assets/images/Labwarming5.jpg
+image: assets/images/Life.jpeg
 author: null
 show_tile: true
 ---

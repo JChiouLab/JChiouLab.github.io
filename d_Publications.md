@@ -13,6 +13,14 @@ show_tile: true
 	</div>
 </header>
 
+<section id="2024iScience">
+	<div class=inner>
+		<p><span class="image left"><img src="{% link assets/images/iScience2024.jpg %}" alt="" style="width:250px;height:250px;"></span><b>Chiou JG</b><sup>*</sup>, Chou KT<sup>*</sup>, Garcia-Ojalvo J, Süel GM. <a href = "https://doi.org/10.1016/j.isci.2024.111386" target="_blank">Intrinsically robust and scalable biofilm segmentation under diverse physical growth conditions</a> (2024) <i>iScience</i>. 27(12):111386 <b>*equal contribution</b>.</p>
+		<p>We discovered the concentric developmental patterns in <i>Bacillus subtilis</i> biofilms is robust either grown on agar or submerged in microfluidic devices. We further show that this is due to the intrinsic scalability of the clock-and-wavefront mechanism when wavefront speed is scaled in real-time with growth rate. This is an example of how systems without pre-determined size can still scale developmental patterns to achieve robustness.</p>
+	</div>
+</section>
+
+
 <section id="2022Cell">
 	<div class=inner>
 		<p><span class="image left"><img src="{% link assets/images/Cell2022.png %}" alt="" style="width:250px;height:250px;"></span>Chou KT<sup>*</sup>, Lee DD<sup>*</sup>, <b>Chiou JG</b><sup>*</sup>,  Galera-Laporta L, San Ly, Garcia-Ojalvo J, Süel GM. <a href = "https://doi.org/10.1016/j.cell.2021.12.001" target="_blank">A segmentation clock patterns cellular differentiation in a bacterial biofilm.</a> (2022) <i>Cell</i>. 185(1):145-157 <b>*equal contribution</b>.</p>

@@ -3,7 +3,7 @@ title: Chiou Lab
 subtitle: Patterning Principles in Microbiology
 email: jchiou@gate.sinica.edu.tw
 welcoming: Discover the patterns in life.
-description: Now recruiting at all positions!
+description: Now recruiting interns, RA, Master and PhD students!
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:  Jian-geng Chiou
@@ -40,4 +40,8 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
+- vendor
+- vendor/bundle
+- .jekyll-cache
+- .sass-cache

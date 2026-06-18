@@ -1,0 +1,16 @@
+current directory: /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/jiangeng/local-ruby/bin/ruby -I /Users/jiangeng/local-ruby/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260617-67647-2078lw sitelibdir\=./.gem.20260617-67647-2078lw clean
+
+current directory: /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260617-67647-2078lw sitelibdir\=./.gem.20260617-67647-2078lw
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260617-67647-2078lw sitelibdir\=./.gem.20260617-67647-2078lw install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260617-67647-2078lw/racc

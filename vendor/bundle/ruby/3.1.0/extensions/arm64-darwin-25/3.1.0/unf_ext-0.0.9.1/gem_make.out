@@ -1,0 +1,17 @@
+current directory: /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/Users/jiangeng/local-ruby/bin/ruby -I /Users/jiangeng/local-ruby/lib/ruby/3.1.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260617-67647-khrpcn sitelibdir\=./.gem.20260617-67647-khrpcn clean
+
+current directory: /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260617-67647-khrpcn sitelibdir\=./.gem.20260617-67647-khrpcn
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++', '-lruby.3.1'
+
+current directory: /Users/jiangeng/IPMB_ChiouLab/JChiouLab.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260617-67647-khrpcn sitelibdir\=./.gem.20260617-67647-khrpcn install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20260617-67647-khrpcn
