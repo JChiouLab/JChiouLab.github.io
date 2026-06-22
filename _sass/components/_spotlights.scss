@@ -24,7 +24,7 @@
 				border-radius: 0;
 				display: block;
 				position: relative;
-				width: 30%;
+				width: 24%;
 
 				img {
 					border-radius: 0;
@@ -52,12 +52,17 @@
 				@include vendor('justify-content', 'center');
 				@include vendor('align-items', 'center');
 				@include padding(2em, 3em);
-				width: 70%;
+				width: 76%;
 
 				> .inner {
 					margin: 0 auto;
 					max-width: 100%;
 					width: _size(inner);
+				}
+
+				// No sibling .image: use the full width instead of the half/uneven column meant for image+content pairs.
+				&:only-child {
+					width: 100%;
 				}
 			}
 
@@ -67,6 +72,10 @@
 
 				> .content {
 					@include vendor('align-items', 'flex-end');
+
+					&:only-child {
+						@include vendor('align-items', 'center');
+					}
 				}
 			}
 		}
@@ -74,11 +83,15 @@
 		@include breakpoint(xlarge) {
 			> section {
 				> .image {
-					width: 40%;
+					width: 32%;
 				}
 
 				> .content {
-					width: 60%;
+					width: 68%;
+
+					&:only-child {
+						width: 100%;
+					}
 				}
 			}
 		}
@@ -86,11 +99,15 @@
 		@include breakpoint(large) {
 			> section {
 				> .image {
-					width: 45%;
+					width: 36%;
 				}
 
 				> .content {
-					width: 55%;
+					width: 64%;
+
+					&:only-child {
+						width: 100%;
+					}
 				}
 			}
 		}
