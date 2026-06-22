@@ -39,6 +39,22 @@ show_tile: false
 		</div>
 	</section>
 	<section>
+		<a href="c_Research.html#PlantSyntheticBiology" class="image">
+			<img src="{% link assets/images/ResearchFigure4_wb.pdf %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Synthetic polarity in plants</h3>
+				</header>
+				<p><b>Do we understand the Turing-based polarity system sufficiently... to build it from scratch in an entirely foreign host?</b> We are synthetically reconstructing the yeast cell polarity machinery inside plant root epidermal cells as an evolutionarily distant platform to test our theoretical principles of polarity establishment, and potentially hijack root hair growth!</p>
+				<ul class="actions">
+					<li><a href="c_Research.html#PlantSyntheticBiology" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="c_Research.html#BiofilmDevelopment" class="image">
 			<img src="{% link assets/images/ResearchFigure3_Rings.pdf %}" alt="" data-position=" center" />
 		</a>
