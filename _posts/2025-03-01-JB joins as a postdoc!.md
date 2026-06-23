@@ -2,7 +2,7 @@
 layout: post
 title: JB joins as a postdoc!
 description:
-image: assets/images/b_profile_JB.jpg
+image: assets/images/23CDBFD9-AD0F-4D4B-9AEB-96569D271640_1_105_c.jpeg
 ---
 
 JB from Tâm Mignot’s lab joins today as a postdoc!
