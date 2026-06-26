@@ -6,7 +6,7 @@ images:
  - assets/images/RicoVisit/IMG_9872.jpeg
  - assets/images/RicoVisit/IMG_9861.jpeg
  - assets/images/RicoVisit/IMG_9864.jpeg
- - assets/images/RicoVisit/IMG_3904.jpeg
+ - assets/images/RicoVisit/IMG_3904.jpg
  - assets/images/RicoVisit/IMG_9850.jpeg
  - assets/images/RicoVisit/B462DDD1-38F2-4297-8C45-7FA50376824B_1_105_c.jpeg
  - assets/images/RicoVisit/P_20250328_123619.jpg
